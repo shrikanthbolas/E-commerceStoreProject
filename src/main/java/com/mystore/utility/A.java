@@ -7,6 +7,7 @@ public class A {
 		System.out.println("shri hari");
 		System.out.println("shri hari");  
 		System.out.println("shri hari1");
+		System.out.println("yogic science");
 	}
 
 }
